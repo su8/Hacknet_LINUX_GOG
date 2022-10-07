@@ -14,3 +14,11 @@ Labyrinth DLC. To complete the DLC visit - https://steamsolo.com/guide/labyrinth
 https://drive.google.com/file/d/1zVMc_CZDcqw3PXx2tV53y42GQp7bVFWU/view?usp=sharing
 
 Once downloaded, make it executable with `cmod +x THE_GAME.sh`
+
+You must install the **Hacknet** game and then the **Labyrinth** DLC.
+
+---
+
+# Mods
+
+https://www.nexusmods.com/hacknet , OMEGA, System Rift, HellSec, HellSec 2, LunarOS are the ones that I recommend.
