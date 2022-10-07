@@ -9,7 +9,7 @@ Hacknet.sh
 
 https://drive.google.com/file/d/1Cu3FLD1ILz1LOelc2n4CT8x2ykhvf-Sy/view?usp=sharing
 
-Labyrinth DLC
+Labyrinth DLC. To complete the DLC visit - https://steamsolo.com/guide/labyrinths-step-by-step-walkthrough-hacknet/
 
 https://drive.google.com/file/d/1zVMc_CZDcqw3PXx2tV53y42GQp7bVFWU/view?usp=sharing
 
